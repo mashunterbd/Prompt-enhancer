@@ -492,7 +492,7 @@ Since the backend is powered by **n8n**, you can already build any automation yo
 
 ## 📄 License
 
-MIT License — free to use, modify, and distribute.
+[**MIT License**](https://github.com/mashunterbd/Prompt-enhancer/LICENSE) — free to use, modify, and distribute.
 
 ---
 
